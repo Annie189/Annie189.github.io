@@ -16,8 +16,12 @@ This data set contains 113,937 loans with 81 variables on each loan, including l
 
 Atrribute definition can be found here: https://docs.google.com/spreadsheets/d/1gDyi_L4UvIrLTEC6Wri5nbaMmkGmLQBk-Yx3z0XDEtI/edit#gid=0
 
-## Header 2
-### Header 3
+## Job Application Showcase
+This project is to build talent showcase from 3000+ job applications of Forkaia by text analysis in Python & NLP. The outcome of the project has helped improve 70% of the accuracy in comparison to others.
+
+### Top 200 Spotify Songs 
+9-month datasets of single day chart for 30+ countries were scraped.  The purpose of the projects was to analyze trends and highlight insights by Tableau.
+The outcome of project has uncovered insightful information in terms of market research about music industry.
 
 - Bulleted
 - List
